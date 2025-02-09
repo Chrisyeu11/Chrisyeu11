@@ -4,8 +4,7 @@
 **Chrisyeu11/Chrisyeu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on data analysis projects
-- 🌱 I’m currently studying Java. 
+- 🔭 Working on Projects 
 - 👯 I’m looking to collaborate! Msg me! 
 - 🤔 I’m looking for a mentor! 
 - 💬 Ask me about Leetcode & Hackerrank suffering. 
