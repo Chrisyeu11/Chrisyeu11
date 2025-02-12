@@ -13,25 +13,6 @@
 - 🌍 Passionate about **space tech, simulation software, and decentralized applications**  
 
 ---
-
-## 🔹 My Projects  
-### 🏆 **Hackathon Swap Project**  
-🔹 Built an **ETL pipeline** to process and analyze **2GB+ Binance trade data**  
-🔹 Used **Python, Pandas, PyArrow, and NumPy** for data transformation & storage  
-🔹 Implemented **automated validation**, reducing processing errors by **30%**  
-🔹 Visualized trade patterns using **Matplotlib and Seaborn**  
-
-🔗 **[View Project](#)**  
-
-### 🔥 **Crypto Donation Platform**  
-🔹 Developed a **responsive Web3 donation platform** using **HTML, CSS, JavaScript, MetaMask, and ethers.js**  
-🔹 Enabled seamless **wallet integration** and Ethereum-based transactions  
-🔹 Demonstrated **blockchain security principles and smart contract interactions**  
-
-🔗 **[View Project](#)**  
-
----
-
 ## 🔹 Technologies & Tools  
 **💻 Programming:** Python, C++, C#, JavaScript, HTML, CSS  
 **🛠️ Frameworks & Libraries:** .NET, ethers.js, Pandas, NumPy, PyArrow, Parquet  
@@ -43,6 +24,7 @@
 
 ## 🔹 Connect With Me  
 📫 **Email:** chrisyeu11@gmail.com  
+🔗 **Portfolio** [chrisyeu.vercel.app](https://chrisyeu.vercel.app)
 🔗 **LinkedIn:** [linkedin.com/in/chrisyeu11](https://linkedin.com/in/chrisyeu11)  
 🔗 **GitHub:** [github.com/chrisyeu11](https://github.com/chrisyeu11)  
 
