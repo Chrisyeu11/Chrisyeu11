@@ -11,8 +11,8 @@
 
 ---
 ## 🔹 Technologies & Tools  
-**💻 Languages: Chatgpt
-**🛠️ Frameworks & Libraries:** .NET, ethers.js, Pandas, NumPy, PyArrow.
+**💻 Languages: C#, Java, Typescript, Python
+**🛠️ Frameworks & Libraries:** Spring Ecosystem, .NET, ethers.js, Pandas, NumPy, PyArrow.
 **🔍 Cybersecurity & Networking:** Wireshark, Metasploit, Nmap, Penetration Testing, Network Security.  
 **📊 Data & Visualization:** Matplotlib, Seaborn, ETL Pipelines, API Integration  
 **🚀 Blockchain & Web3:** Ethereum, MetaMask, Decentralized Wallets  
