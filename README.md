@@ -1,19 +1,18 @@
 # 👋 Hi, I'm Chris!
 
-🚀 🔍**data-driven solutions, secure systems, and high-performance computing**  
+🚀 🔍**Screw Javascript. Typescript is It.**  
 
 ---
-- 🎓 Computer Science at Texas Southern University (May 2025)  
-- 💡 Screw Javascript. Typescript is It.   
+- 🎓 Computer Science at Texas Southern University
+- 💡    
 - 🔐 penetration testing, network security, and incident response  
 - 📊 ETL pipelines, data processing, and blockchain/Web3 development**  
 - 🌍 Space tech, simulation software, and decentralized applications**  
 
 ---
 ## 🔹 Technologies & Tools  
-**💻 Languages: C#, Java, Typescript, Python
-**🛠️ Frameworks & Libraries:** Spring Ecosystem, .NET, ethers.js, Pandas, NumPy, PyArrow.
-**🔍 Cybersecurity & Networking:** Wireshark, Metasploit, Nmap, Penetration Testing, Network Security.  
+**💻 Languages: Java, Typescript
+**🛠️ Frameworks & Libraries:** Spring Ecosystem, Next.js Tailwind.css, ethers.js, Pandas, NumPy, PyArrow.
 **📊 Data & Visualization:** Matplotlib, Seaborn, ETL Pipelines, API Integration  
 **🚀 Blockchain & Web3:** Ethereum, MetaMask, Decentralized Wallets  
 
