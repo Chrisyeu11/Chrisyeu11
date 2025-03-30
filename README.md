@@ -6,9 +6,13 @@
 ---
 ## 🔹 Technologies & Tools  
 💻 Languages: Java, Typescript
-**🛠️ Frameworks & Libraries:** Spring Ecosystem, Next.js Tailwind.css, ethers.js, Pandas, NumPy, PyArrow.
-**📊 Data & Visualization:** Matplotlib, Seaborn, ETL Pipelines, API Integration  
-**🚀 Blockchain & Web3:** Ethereum, MetaMask, Decentralized Wallets  
+
+
+🛠️ Frameworks & Libraries:** Spring Ecosystem, Next.js Tailwind.css, ethers.js, Pandas, NumPy, PyArrow.
+
+📊 Data & Visualization:** Matplotlib, Seaborn, ETL Pipelines, API Integration  
+
+🚀 Blockchain & Web3:** Ethereum, MetaMask, Decentralized Wallets  
 
 ---
 
