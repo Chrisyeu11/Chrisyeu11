@@ -1,13 +1,7 @@
 # 👋 Hi, I'm Chris!
 
-🚀 🔍**Screw Javascript. Typescript is It.**  
+🔍**Screw Javascript. Typescript is the way.**  
 
----
-- 🎓 Computer Science at Texas Southern University
-- 💡    
-- 🔐 penetration testing, network security, and incident response  
-- 📊 ETL pipelines, data processing, and blockchain/Web3 development**  
-- 🌍 Space tech, simulation software, and decentralized applications**  
 
 ---
 ## 🔹 Technologies & Tools  
