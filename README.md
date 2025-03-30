@@ -12,7 +12,7 @@
 
 ---
 
-## 🔹 Connect With Me  
+## 🔹 Connect with Me  
 📫 **Email:** chrisyeu11@gmail.com  
 🔗 **Portfolio** [chrisyeu.vercel.app](https://chrisyeu.vercel.app) 
 
