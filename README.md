@@ -16,10 +16,5 @@
 📫 **Email:** chrisyeu11@gmail.com  
 🔗 **Portfolio** [chrisyeu.vercel.app](https://chrisyeu.vercel.app)
 
-
 🔗 **LinkedIn:** [linkedin.com/in/chrisyeu11](https://linkedin.com/in/chrisyeu11)  
 🔗 **GitHub:** [github.com/chrisyeu11](https://github.com/chrisyeu11)  
-
----
-
-💡 **Always open to learning, collaboration, and innovative projects. Let’s build something great together!** 🚀
